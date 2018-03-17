@@ -1,0 +1,7 @@
+6
+PoianaBrasov.txt
+Barcelona.txt
+Paris.txt
+Brasov.txt
+Brasov2.txt
+VamaVeche.txt

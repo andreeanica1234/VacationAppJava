@@ -1,0 +1,21 @@
+Hotel Paris 
+2245
+France Ile-de-France Paris
+200
+6
+Visit Louvre Museum
+170
+Visit Tour Eiffel 
+120
+Visit Notre Dame Cathedral 
+80
+Walk around the city
+0
+Go to Dinseyland
+550
+Visit Versailles Palace
+90
+3
+28.05.2018 6.06.2018 5
+1.06.2018 5.06.2018 4
+10.06.2018 14.06.2018 4

@@ -1,0 +1,16 @@
+Hotel Class
+9915
+Romania Brasov Brasov
+190
+3
+Vizita zoo
+20
+Vizita biserica neagra 
+5
+Vizita Piata Sfatului 
+0
+3
+12.03.2018 1.03.2018 5
+4.04.2018 8.04.2018 4
+5.04.2018 10.04.2018 5
+22.04.2018 29.04.2018 7
