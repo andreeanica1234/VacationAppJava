@@ -24,6 +24,8 @@ public class Region {
 		return this.cities;
 	}
 	
+	/* If a city already exists, only the (index of) location is added to the city info.
+	 * Otherwise a new city is added (with the given location).  */
 	public void addCity(City city, Integer location){
 		for (City c : cities){
 			if (c.getName().equals(city.getName())){

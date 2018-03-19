@@ -1,7 +1,11 @@
-6
+10
 PoianaBrasov.txt
 Barcelona.txt
 Paris.txt
 Brasov.txt
 Brasov2.txt
 VamaVeche.txt
+Brasov3.txt
+Brasov4.txt
+Brasov5.txt
+Brasov6.txt

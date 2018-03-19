@@ -16,6 +16,7 @@ public class Country {
 		return this.regions;
 	}
 	
+	/* If the region already exists, add only the city with the location. Otherwise, add new region. */
 	public void addRegion(Region region, City city, Integer location){
 		for(Region r : regions){
 			if (r.getName().equals(region.getName())){

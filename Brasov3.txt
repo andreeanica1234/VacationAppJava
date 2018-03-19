@@ -1,0 +1,17 @@
+Hotel Atena
+9908
+Romania Brasov Brasov
+120
+3
+Vizita Zoo
+20
+Vizita Biserica Neagra 
+5
+Vizita Piata Sfatului 
+0
+5
+12-03-2018 17-03-2018 5
+04-04-2018 08-04-2018 4
+10-04-2018 15-04-2018 5
+22-04-2018 29-04-2018 7
+01-05-2018 06-05-2018 5
