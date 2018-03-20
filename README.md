@@ -34,24 +34,25 @@ Format of location input file:
 ## Commands 
 (See exampleOutput.txt for a concrete example)
 
+The communication takes place through the Console.
 The user can search through the available informations using and following the 'menu' displayed by the program in the form of questions.
-The available answers are written within the angle brakets ('<', '>').
+The response options are written within the angle brakets ('<', '>') after the question.
 At any given time, the command 'exit' will terminate the program. 
 
 ## Available information
 The user can see and search for: 
-- the outside hierarchy (the countries with their regions, their cities and their locations; no details on location)
+- the hierarchy (the countries with their regions, their cities and their locations; no details shown for the locations)
 - a certain location with all its info 
 - the locations available in a city / region / country
-- cheapest activity and its location
+- cheapest activity and its price and location(s)
 - top5 locations
 - top5 locations in a city / region / country
 
-  - the locations were sorted in ascending order considering : average money spent in a day for activities / hotelPrice per night / total money spent in a day (hotel + activities)
+  - the locations are sorted in ascending order considering : average money spent in a day for activities / hotelPrice per night / total money spent in a day (hotel + activities)
   - the user choses the sorting criteria
   
 ## Implementation
-The program was developed in Eclipse IDE Version: Neon.1a Release (4.6.1)
+The program was developed in Eclipse IDE. Version: Neon.1a Release (4.6.1)
 
 The main class (Vacation) contains an ArrayList of countries and an ArrayList of locations. Every country constains regions, every region contains cities and every city contains an array with the index of every location that is fount in that city.
 
