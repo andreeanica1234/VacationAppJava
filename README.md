@@ -1,9 +1,9 @@
 # Vacation Application Java
 
-Application implemented in Java to help the user choose the destination of their next vacation. 
+Application implemented in Java to help the users choose the destination of their next vacation. 
 
 ## Input Files
-The program reads a file given as an argument that contains the number of available locations and the name of the files containing the detailed locations.
+The program reads a file given as an argument that contains the total number of locations and the name of the files containing the detailed locations.
 
 Format of input file (given as an argument to the program):
 ```
