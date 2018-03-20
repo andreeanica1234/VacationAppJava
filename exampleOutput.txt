@@ -1,0 +1,58 @@
+>For leaving type exit at any moment!
+>What type of info do you need? <allLocations / top5 / location / city / regions / country / cheap activity>
+alllocations
+>Print All Available Locations: 
+>Country: Romania
+>  Region: Brasov
+>       City: PoianaBrasov
+>            Hotel Ariana
+>       City: Brasov
+>            Hotel Poiana
+>           Hotel Class
+>            Hotel Atena
+>            Pensiunea Kant
+>            Pensiunea Jung
+>            Pensiunea Freud
+>   Region: Constanta
+>       City: VamaVeche
+>            Campare Sofia
+>Country: Spain
+>   Region: Catalonia
+>       City: Barcelona
+>            Hotel Antico
+>Country: France
+>   Region: Ile-de-France
+>       City: Paris
+>            Hotel Paris
+>What type of info do you need? <allLocations / top5 / location / city / regions / country / cheap activity>
+top5
+>Top5: locations / city / region / country / exit
+locations
+>Sort (asc) by:
+>	- total price in a day (hotel + activities) <totalDay>
+>	- the cost of activities in a day <activities>
+>	- the cost of hotel per night <hotel>
+hotel
+>Do you want full details for every location? <yes/no>
+no
+>Do you want to search a specific period? <yes/no>
+no
+>(0) Campare Sofia	50 RON / day
+>(1) Hotel Atena	120 RON / day
+>(2) Hotel Ariana	130 RON / day
+>(3) Pensiunea Kant	135 RON / day
+>(4) Pensiunea Jung	145 RON / day
+
+>Do you want to see available periods for a specific location? <yes/no>
+yes
+>For which location do you want to see the available periods? Type the index of the location (listed above)!
+1
+> -> 5 days: 12-03-2018 -> 17-03-2018		Total price: 600.0 RON
+> -> 4 days: 04-04-2018 -> 08-04-2018		Total price: 480.0 RON
+> -> 5 days: 10-04-2018 -> 15-04-2018		Total price: 600.0 RON
+> -> 7 days: 22-04-2018 -> 29-04-2018		Total price: 840.0 RON
+> -> 5 days: 01-05-2018 -> 06-05-2018		Total price: 600.0 RON
+
+>What type of info do you need? <allLocations / top5 / location / city / regions / country / cheap activity>
+exit
+>Goodbye!
