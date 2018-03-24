@@ -54,7 +54,7 @@ The user can see and search for:
 ## Implementation
 The program was developed in Eclipse IDE. Version: Neon.1a Release (4.6.1)
 
-The main class (Vacation) contains an ArrayList of countries and an ArrayList of locations. Every country constains regions, every region contains cities and every city contains an array with the index of every location that is fount in that city.
+The main class (Vacation) contains an ArrayList of countries and an ArrayList of locations. Every country contains regions, every region contains cities and every city contains an array with the index of every location that is found in that city.
 
 An object of type Location has the next fields: name, id, city, region, country, price of the hotel / night, average price of the activities, array of available activities, array of available periods.
 
